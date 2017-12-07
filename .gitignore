@@ -1,3 +1,5 @@
 .vs/
 Temp/
-ob/
+obj/
+*.meta
+Standard Assets/
